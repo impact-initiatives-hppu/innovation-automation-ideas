@@ -26,7 +26,6 @@ body:
       label: Benefits
       description: Explain how this idea will benefit the office.
       placeholder: Describe the benefits here...
-      value: ""
 
   - type: dropdown
     id: priority
