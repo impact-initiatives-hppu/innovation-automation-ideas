@@ -7,9 +7,8 @@ body:
   - type: markdown
     id: description
     attributes:
-      value: |
-        ## Idea Description
-        Please provide a detailed description of your idea.
+      value: "## Idea Description"
+      placeholder: "Please provide a detailed description of your idea"
 
   - type: textarea
     id: details
