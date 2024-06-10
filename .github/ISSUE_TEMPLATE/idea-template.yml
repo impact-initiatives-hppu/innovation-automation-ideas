@@ -6,6 +6,7 @@ labels: ["idea", "new"]
 body:
   - type: markdown
     id: description
+    attributes: 
     value: "## Idea Description"   
     
   - type: markdown
