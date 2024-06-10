@@ -19,7 +19,6 @@ body:
       label: Description
       description: Provide a detailed description of the idea.
       placeholder: Describe your idea here...
-      value: ""
 
   - type: textarea
     id: benefits
