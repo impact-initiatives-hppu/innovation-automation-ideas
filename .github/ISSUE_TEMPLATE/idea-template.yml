@@ -2,14 +2,17 @@ name: "New Idea"
 description: "Suggest a new innovation or automation idea"
 title: "[IDEA] "
 labels: ["idea", "new"]
+
 body:
   - type: markdown
+    id: description
     attributes:
       value: |
         ## Idea Description
         Please provide a detailed description of your idea.
 
   - type: textarea
+    id: details
     attributes:
       label: Description
       description: Provide a detailed description of the idea.
@@ -17,6 +20,7 @@ body:
       value: ""
 
   - type: textarea
+    id: benefits
     attributes:
       label: Benefits
       description: Explain how this idea will benefit the office.
@@ -24,6 +28,7 @@ body:
       value: ""
 
   - type: dropdown
+    id: priority
     attributes:
       label: Priority
       description: Select the priority level for this idea.
@@ -33,6 +38,7 @@ body:
         - High
 
   - type: input
+    id: name
     attributes:
       label: Submitter Name
       description: Your name.
