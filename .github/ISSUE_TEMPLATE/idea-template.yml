@@ -6,9 +6,12 @@ labels: ["idea", "new"]
 body:
   - type: markdown
     id: description
+    value: "## Idea Description"   
+    
+  - type: markdown
+    id: description
     attributes:
-      value: "## Idea Description"
-      placeholder: "Please provide a detailed description of your idea"
+      value: "Please provide a detailed description of your idea"
 
   - type: textarea
     id: details
