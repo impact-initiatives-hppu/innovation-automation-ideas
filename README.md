@@ -17,6 +17,5 @@ You can track the progress of submitted ideas using the `Projects` tab where we 
 
 - Please check existing issues before submitting a new one to avoid duplicates.
 - Provide as much detail as possible to help us understand and implement your idea.
-- Be respectful and constructive in your submissions and comments.
 
 Thank you for contributing to our continuous improvement!
